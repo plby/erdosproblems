@@ -6019,8 +6019,8 @@
 - number: "545"
   prize: "no"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "open"
+    last_update: "2025-11-27"
   oeis: ["A059442", "possible"]
   formalized:
     state: "no"
